@@ -49,7 +49,9 @@ background-size:cover ;
     text-decoration: underline;
     border:rgb(255, 255, 255) solid;
   }
-
+a.navbarLink:link{
+color: green;
+}
   a.navbarLink:hover{
     color: white;
     background-color: green;
@@ -87,7 +89,7 @@ position: relative;
     margin-top: 0px;
     position: relative;
     text-align: center;
-    color: green;
+    /* color: white; */
 }
 .navbarLink{
 
