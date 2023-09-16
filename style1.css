@@ -1,0 +1,221 @@
+body{
+    margin-right: 30px;
+    margin-bottom:30px ;
+    margin-left: 30px;
+    margin-top: 0px;
+    /* color: rgb(88, 88, 88); */
+}
+#home_img{
+height: 450px;
+background-size:cover ;
+}
+
+.sec0{
+    margin-right: 30px;
+    margin-bottom:30px ;
+    margin-left: 30px;
+    margin-top: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* link */
+.bottom-left{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right: 50px;
+    bottom: 80px;
+} 
+
+/* simple house */
+.bottom-right { 
+    position: absolute;
+    bottom: 16px;
+    left: 50px;
+  }
+  a:link{
+    font-size: 18px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: aliceblue;
+  }
+ 
+  a:hover{
+    color: white;
+    border: rgb(255, 255, 255) solid;
+  }
+  a:focus{
+    text-decoration: underline;
+    border:rgb(255, 255, 255) solid;
+  }
+
+  a.navbarLink:hover{
+    color: white;
+    background-color: green;
+    border: green solid;
+  }
+  a.navbarLink:focus{
+    text-decoration: underline;
+    border:green solid;
+  }
+
+  a.Requar:hover{
+    color: white;
+    background-color: green;
+    border: green solid;
+  }
+  a.Requar:focus{
+    text-decoration: underline;
+    border:green solid;
+  }
+
+
+.sec1{
+text-align: center;
+position: relative;
+
+  }
+.para{
+    text-align: center;
+    margin: 50px;
+}
+.navbar{
+    margin-right: 30px;
+    margin-bottom:30px ;
+    margin-left: 30px;
+    margin-top: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.navbarLink{
+
+    color:green;
+    border: green solid 2px;
+    text-align: center;
+    margin: 4px;
+    padding: 4px;
+}
+
+.pizza{
+    margin-right: 60px;
+    margin-bottom:30px ;
+    margin-left: 60px;
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+    border: rgb(238, 166, 57) solid 2px;
+    padding: 20px;
+
+}
+.Requar{
+    color:green;
+    border: green solid 2px;
+    text-align: center;
+    /* margin: 40px; */
+    margin-bottom: 30px;
+    padding: 4px;
+}
+.noodle{
+    margin-right: 60px;
+    margin-bottom:30px ;
+    margin-left: 60px;
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+    border: rgb(238, 166, 57) solid 2px;
+    padding: 20px;
+}
+.fruit{
+    margin-right: 60px;
+    margin-bottom:30px ;
+    margin-left: 60px;
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+    border: rgb(238, 166, 57) solid 2px;
+    padding: 20px;
+}
+.healthyS{
+    margin-right: 60px;
+    margin-bottom:30px ;
+    margin-left: 60px;
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+    border: rgb(238, 166, 57) solid 2px;
+    padding: 20px; 
+}
+.sec2{
+    /* margin-right: 30px; */
+    margin-bottom:30px ;
+    margin-left: 30px;
+    display:flex;
+}
+#sales{
+    color: darkgreen;
+}
+h4{
+    color: rgb(33, 33, 70);
+}
+
+.Footer{
+display: flex;
+margin-right: 30px;
+margin-bottom:30px ;
+margin-left: 30px;
+margin-top: 10px;
+position: relative;
+text-align: left;
+}
+#plorem{
+    color: rgb(62, 63, 63);
+}
+.Right{
+left: 30px;
+padding-left: 20px;
+}
+a#link:link{
+    color: blue;
+    text-decoration: underline;
+}
+a#link:hover{
+color: aqua;
+}
+#readlink{
+    color:rgb(70, 73, 70)  ;
+    border: rgb(70, 73, 70) solid 1px;
+
+}
+a#readlink:hover{
+color: black;
+}
+a#readlink:focus{
+    color: aqua;
+}
+#copyright{
+    color: rgb(62, 63, 63);
+    text-align: center;
+    
+}
+
+
+
+/* ****** Contact Pages  ******* */
+.sec3{
+    text-align: center;
+    position: relative;
+    /* color: rgb(62, 63, 63); */
+
+}
+
+.sec4{
+    color: rgb(62, 63, 63);
+
+    display: flex;
+
+}
+
+
+
